@@ -42,11 +42,22 @@ Built with obsession, discipline, and a long-term vision for tech.
     </td>
   </tr>
 </table>
-<!-- ================= SNAKE ANIMATION ================= -->
 
-<h2 align="center">🐍 Contribution Graph</h2>
+
+<h1 align="center">
+  🐍 <span style="color:#00F5FF;">My Commits</span> 
+</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dev-Rishabh17/Dev-Rishabh17/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dev-Rishabh17&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Dev-Rishabh17?label=Followers&style=for-the-badge&color=blueviolet" />
+</p>
+<!--break hai lala --->
