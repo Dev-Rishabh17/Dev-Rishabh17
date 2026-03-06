@@ -45,7 +45,7 @@ Built with obsession, discipline, and a long-term vision for tech.
 
 
 <h1 align="center">
-  🐍 <span style="color:#00F5FF;">My Commits</span> 
+   <span style="color:#00F5FF;">My Commits</span> 
 </h1>
 
 <p align="center">
